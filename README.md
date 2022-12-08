@@ -1,1 +1,3 @@
-# A-study-into-Bifurcation-Theory-and-its-Applications
+# A Study Into Bifurcation Theory and its Applications
+
+This is an essay project conducted during my second year at university. As the title explains, I explored the theory and applications of Bifurcation Theory, an important topic in Applied Mathematics. I discuss Lyapunov Schmidt Reduction and how it can be used to circumvent the breakdown of the Implicit Function Theorem at bifurcation points. I also give detailed real-world examples of where we see bifurcations such as modelling the synchronous flashing of firefly lights or lasers being produced by vibating atoms in substances. I thoroughly enjoyed researching this subject and will be looking to take modules to further explore it during my studies.  
